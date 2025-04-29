@@ -27,6 +27,7 @@ To be able to display country/city:
 * PHP >= 5.4.0
 * PHP 'bcmath' extension
 * PHP 'phar' extension
+* PHP 'libapache2-mod-geoip' extension
 
 ### Installation
 
@@ -34,13 +35,13 @@ Place all the plugin files in a directory called 'geoip2' in the rutorrent/plugi
 
 To clone directly from this git repository, run this command in the rutorrent/plugins directory:
 
-`git clone https://github.com/Micdu70/geoip2-rutorrent.git geoip2`
+`git clone https://github.com/MarkusLange/geoip2-rutorrent.git geoip2`
 
 > **Note:** It is important that the plugin directory is named 'geoip2' so that the supporting files are loaded correctly.
 
 > **You need to disable or remove the original 'geoip' plugin to allow this one to work.**
 
-> **Info:** `GeoLite2 Country` database (2023-12-08) included.
+> **Info:** `GeoLite2 City` database (2025-04-29) included.
 
 ### Update or change database
 
