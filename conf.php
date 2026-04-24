@@ -5,7 +5,7 @@
 	$retrieveHost = true;
 	$retrieveComments = true;
 
-	$usePluginDatabase = true; // search and use GeoLite2 database in "database" plugin' directory
+	$usePluginDatabase = false; // search and use GeoLite2 database in "database" plugin' directory
 
 	// If $usePluginDatabase is set to false:
 	$cityDbFile = "";	// empty = "/usr/share/GeoIP/GeoLite2-City.mmdb"
