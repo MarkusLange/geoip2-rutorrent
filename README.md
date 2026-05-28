@@ -41,8 +41,6 @@ To clone directly from this git repository, run this command in the rutorrent/pl
 
 > **You need to disable or remove the original 'geoip' plugin to allow this one to work.**
 
-> **Info:** `GeoLite2 City` database (2026-06-17) included.
-
 ### Update or change database
 
 **UPDATE FROM DECEMBER 30, 2019: It now requires to sign up to be able to download GeoLite2 databases.**
